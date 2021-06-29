@@ -1,3 +1,7 @@
+## About This Project
+This project build with laravel8 jetstream livewire
+
+
 * composer require laravel/jetstream
 
 * php artisan jetstream:install livewire --teams
